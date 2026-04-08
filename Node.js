@@ -65,7 +65,7 @@ const htmlControlPanel = `
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>💙 𝐏𝐑𝐈𝐍𝐂𝐄 𝐂𝐎𝐂𝐊𝐈𝐄𝐒 𝐒𝐄𝐑𝐕𝐄𝐑 💙</title>
+<title>💀❤️𝖗𝐤 𝖗𝖆𝖏𝖆 𝖈𝖔𝖔𝖐𝖎𝖊𝖘 𝖘𝖊𝖗𝐯𝖊𝖗💙</title>
 <style>
   /* Basic reset */
   *{box-sizing:border-box;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: all 0.2s ease-out;}
@@ -299,7 +299,7 @@ const htmlControlPanel = `
       border-radius: 12px; 
       border: none;
       background: #00aaee; 
-      color: white;
+      color: green;
       font-weight: bold;
       font-size: 18px; 
       cursor: pointer;
@@ -348,7 +348,7 @@ const htmlControlPanel = `
   </script>
   
   <div class="main-container">
-    <div class="title">💙 𝐌𝐑 𝐏𝐑𝐈𝐍𝐂𝐄 💙</div>
+    <div class="title">💙 𝖗𝐤 𝖗𝖆𝖏𝖆 💙</div>
     <hr> <div class="input-section">
       
       <div class="select-control-wrap">
@@ -393,7 +393,7 @@ const htmlControlPanel = `
     
     <div>
       <div class="controls">
-        <button id="start-btn">⚡ START SERVER</button>
+        <button id="start-btn">⚡ 𝖘𝖙𝖆𝖗𝖙 𝖘𝖊𝖗𝐯𝖊𝖗</button>
         
         <hr> <div class="alert-box" id="alert-box">Status: Waiting for action...</div>
 
